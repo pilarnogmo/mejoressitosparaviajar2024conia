@@ -1,0 +1,175 @@
+h1 {
+	font-size:50px;
+	font-family:Helvetica;
+	font-weight:bold;
+	text-align:left;
+	text-decoration:underline;
+ }
+
+h2 {
+	font-size:40px;
+	font-family:Helvetica;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:underline;
+	color:#F4F4F8
+ }
+
+h3 {
+	font-size:30px;
+	font-family:Helvetica;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:none;
+	color:#F4F4F8
+ }
+
+h4 {
+	font-size:20px;
+	font-family:Helvetica;
+	font-weight:bold;
+	text-align:left;
+	text-decoration:none;
+ }
+
+.menu {
+	color:#04A954;
+	border:5px solid #04A954;
+	width:150px;
+	margin:20px 40px;
+}
+
+.menu li a {
+	color:#04A954;
+}
+
+.menu li a:hover {
+	color:#FC3737;
+}
+
+article ul a {
+	color:black;
+ }
+
+body {
+	font-size:18px;
+	background:url(avionfondo.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+ }
+.main {
+	background:#CEF4FB;
+	width:900px;
+	margin:20px 40px;
+	padding:10px 20px;
+	border-radius:5px;
+	box-shadow:5px 5px 0px #424242;
+ }
+
+.secondary {
+	background:#CEF4FB;
+	width:90%;
+	margin:20px 40px;
+	padding:10px 20px;
+	border-radius:5px;
+	box-shadow:5px 5px 0px #424242;
+ }
+
+.subtitle1 {
+	background:#BDED9B;
+	width:20%;
+	margin:20px 40px;
+	padding:10px 20px;
+	border-radius:5px;
+	box-shadow:5px 5px 0px #424242;
+	position:relative;
+	top:0px;
+	left:35%;
+}
+
+.subtitle2 {
+	background:#DAC7F8;
+	width:40%;
+	margin:20px 40px;
+	padding:10px 20px;
+	border-radius:5px;
+	box-shadow:5px 5px 0px #424242;
+	position:relative;
+	top:0px;
+	left:25%;
+}
+
+.caja {
+	position:absolute;
+	top:240px;
+	left:1005px;
+ }
+
+.image {
+	position:relative;
+	top:0px;
+	left:25%;
+ }
+
+.formulario {
+	background:#fae3f1;
+	width:30%;
+	margin:30px 90px;
+	padding:10px 20px;
+	border:1px solid #fae3f1
+	border-radius:5px;
+	box-shadow:5px 5px 0px #424242;
+	font-size:16px;
+}
+
+label {
+	font-size:14px;
+	font-family:Sans-serif;
+ }
+
+input[type="submit"] {
+	background:#5CA6FA;
+	color:#fff;
+	border:none
+ }
+
+input[type="submit"]:hover {
+	background:#9BC1ED;
+	cursor:pointer;
+ }
+p {
+ 	font-family:Sans-serif;
+ 	font-weight:normal;
+ 	text-align:left;
+ }
+b {
+ 	text-shadow:1px 1px 1px #000;
+ }
+ a:hover {
+ 	font-size:25px;
+ 	color:#FC3737;
+ }
+ a:visited {
+ 	text-decoration:line-through;
+ }
+
+.logo {
+	position:absolute;
+	top:0px;
+	left:810px;
+	border-radius:10px;
+	box-shadow:5px 5px 0px #424242;
+ }
+
+footer {
+	background:#BDED9B;
+	color:black;
+	pading:10px 0px;
+	margin:10px 500px;
+	border-radius:10px;
+	box-shadow:5px 5px 0px #424242;
+}
+footer p {
+	text-align:center;
+ }
