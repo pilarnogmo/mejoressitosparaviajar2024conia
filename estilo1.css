@@ -60,7 +60,7 @@ ul li:last-child {
 }
 
 .imagen img {
-    max-width: 80%;
+    max-width: 50%;
     height: auto;
     border-radius: 4px;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
